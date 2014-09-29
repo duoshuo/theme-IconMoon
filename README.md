@@ -2,6 +2,14 @@
 
 a duoshuo-embed comments theme `IconMoon` from JJYing.
 
+### Quick Start
+
+embed this stylesheet to your website, everything will work.
+
+```html
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/duoshuo/IconMoon/master/dist/iconmoon.min.css">
+```
+
 ### Contributing
 - Fork this repo
 - Clone your repo
