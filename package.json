@@ -1,0 +1,26 @@
+{
+  "name": "IconMoon",
+  "version": "1.0.0",
+  "description": "an IconMoon theme from JJYing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:duoshuo/IconMoon.git"
+  },
+  "keywords": [
+    "iconMoon",
+    "JJYing",
+    "duoshuo",
+    "duoshuo-embed.css",
+    "embed"
+  ],
+  "author": "turing <o.u.turing@Gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duoshuo/IconMoon/issues"
+  },
+  "homepage": "https://github.com/duoshuo/IconMoon"
+}
